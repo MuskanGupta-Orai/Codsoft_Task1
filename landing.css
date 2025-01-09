@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background:  url(https://th.bing.com/th/id/OIP.7aCjc9xpjd51zXhxF-8s2QHaCd?w=340&h=116&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1.2em;
+    margin: 20px 0;
+}
+
+ .login-button {
+    background: #4CAF50;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.cta-button {
+    background: white;
+    color: #4CAF50;
+    padding: 10px 20px;
+    text-decoration: color-mix(in hsl shorter hue, color percentage, color percentage);
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+section {
+    padding: 40px 0;
+    background-color:skyblue ;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    max-width: 1200px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.feature {
+    text-align: center;
+    margin: 20px 0;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
